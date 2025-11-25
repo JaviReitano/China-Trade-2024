@@ -1,4 +1,6 @@
-## 📊 **China Trade Dashboard 2024 — Análisis del Comercio Internacional**
+<h1 align="center" style="font-size: 48px;">
+📊 China Trade Dashboard 2024<br>Análisis del Comercio Internacional
+</h1>
 
 Este proyecto presenta un análisis del comercio exterior de China durante el año 2024, utilizando Python para la limpieza y preparación de datos, y Power BI para la creación de un dashboard interactivo.
 Incluye indicadores clave de exportaciones, importaciones, trade total, variaciones YoY y análisis por regiones y principales socios comerciales.
