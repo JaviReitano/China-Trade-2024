@@ -1,11 +1,11 @@
-# 📊 **China Trade Dashboard 2024 — Análisis del Comercio Internacional**
+## 📊 **China Trade Dashboard 2024 — Análisis del Comercio Internacional**
 
 Este proyecto presenta un análisis del comercio exterior de China durante el año 2024, utilizando Python para la limpieza y preparación de datos, y Power BI para la creación de un dashboard interactivo.
 Incluye indicadores clave de exportaciones, importaciones, trade total, variaciones YoY y análisis por regiones y principales socios comerciales.
 
 --------------------
 
-🚀 *Características principales*
+🚀 **Características principales**
 
 Procesamiento y limpieza de datos en Python (Pandas).
 
@@ -27,7 +27,7 @@ Visualizaciones dinámicas para explorar tendencias de 2024.
 
 ---------------------
 
-🧰 *Tecnologías utilizadas*
+🧰 **Tecnologías utilizadas**
 
 Python 3.11+ (Pandas, NumPy)
 
@@ -39,7 +39,7 @@ GitHub para control de versiones
 
 --------------------
 
-📁 *Estructura del repositorio*
+📁 **Estructura del repositorio**
 /data
     /raw                  → dataset original
     /processed            → dataset limpio
@@ -56,13 +56,13 @@ README.md                 → documentación
 
 --------------------
 
-📸 *Dashboard*
+📸 **Dashboard**
 
 Las imágenes del dashboard se encuentran en la carpeta /images.
 
 --------------------
 
-👤 *Sobre mí*
+👤 **Sobre mí**
 
 Javier Reitano
 Analista de Datos | Python | Power BI
