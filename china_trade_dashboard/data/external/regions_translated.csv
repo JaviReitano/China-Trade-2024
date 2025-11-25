@@ -1,0 +1,270 @@
+chinese_raw,english_name
+总值,Total value
+亚洲,Asia
+阿富汗,Afghanistan
+巴林,Bahrain
+孟加拉国,Bangladesh
+不丹,Bhutan
+文莱,Brunei
+缅甸,Myanmar
+柬埔寨,Cambodia
+塞浦路斯,Cyprus
+朝鲜,North Korea
+中国香港,"Hong Kong, China"
+印度,India
+印度尼西亚,Indonesia
+伊朗,Iran
+伊拉克,Iraq
+以色列,Israel
+日本,Japan
+约旦,Jordan
+科威特,Kuwait
+老挝,Laos
+黎巴嫩,Lebanon
+中国澳门,"Macau, China"
+马来西亚 ,Malaysia 
+马尔代夫,Maldives
+蒙古,Mongolia
+尼泊尔,Nepal
+阿曼,Oman
+巴基斯坦,Pakistan
+巴勒斯坦,Palestine
+菲律宾,the Philippines
+卡塔尔,Qatar
+沙特阿拉伯,Saudi Arabia
+新加坡,Singapore
+韩国,South Korea
+斯里兰卡,Sri Lanka
+叙利亚,Syria
+泰国,Thailand
+土耳其,Türkiye
+阿联酋,UAE
+也门,Yemen
+越南,Vietnam
+中国,China
+中国台湾,"Taiwan, China"
+东帝汶,East Timor
+哈萨克斯坦,Kazakhstan
+吉尔吉斯斯坦,Kyrgyzstan
+塔吉克斯坦,Tajikistan
+土库曼斯坦,Turkmenistan
+乌兹别克斯坦 ,Uzbekistan 
+格鲁吉亚,Georgia
+亚美尼亚,Armenia
+阿塞拜疆,Azerbaijan
+亚洲其他国家(地区),Other Asian countries (regions)
+非洲,Africa
+阿尔及利亚,Algeria
+安哥拉,Angola
+贝宁,Benin
+博茨瓦纳,Botswana
+布隆迪,Burundi
+喀麦隆 ,Cameroon 
+加那利群岛,Canary Islands
+佛得角,cape verde
+中非,Central Africa
+塞卜泰(休达),Sebuta (Ceuta)
+乍得,Chad
+科摩罗,Comoros
+刚果共和国,Republic of Congo
+吉布提,Djibouti
+埃及,Egypt
+赤道几内亚,Equatorial Guinea
+埃塞俄比亚,Ethiopia
+加蓬,Gabon
+冈比亚,Gambia
+加纳,Ghana
+几内亚,Guinea
+几内亚比绍,Guinea-Bissau
+科特迪瓦,Côte d'Ivoire
+肯尼亚,Kenya
+利比里亚,Liberia
+利比亚,Libya
+马达加斯加,Madagascar
+马拉维,Malawi
+马里 ,Mali 
+毛里塔尼亚,mauritania
+毛里求斯,Mauritius
+摩洛哥,Morocco
+莫桑比克,Mozambique
+纳米比亚,Namibia
+尼日尔,Niger
+尼日利亚,Nigeria
+留尼汪,Reunion Island
+卢旺达,Rwanda
+圣多美和普林西比,São Tomé and Príncipe
+塞内加尔,Senegal
+塞舌尔,Seychelles
+塞拉利昂,Sierra Leone
+索马里,somalia
+南非 ,South Africa 
+西撒哈拉,Western Sahara
+苏丹,Sudan
+坦桑尼亚,Tanzania
+多哥,Togo
+突尼斯,Tunisia
+乌干达,Uganda
+布基纳法索,Burkina Faso
+刚果民主共和国,Democratic Republic of Congo
+赞比亚 ,Zambia 
+津巴布韦,Zimbabwe
+莱索托 ,Lesotho 
+梅利利亚,Melilla
+斯威士兰,Swaziland
+厄立特里亚,Eritrea
+马约特,Mayort
+南苏丹,South Sudan
+法属南方领地,French Southern Territory
+英属印度洋领地,British Indian Ocean Territory
+圣赫勒拿,Saint Helena
+非洲其他国家(地区),Other African countries (regions)
+欧洲,Europe
+比利时,Belgium
+丹麦,Denmark
+英国,U.K.
+德国,Germany
+法国,France
+爱尔兰,Ireland
+意大利,Italy
+卢森堡,Luxembourg
+荷兰,Netherlands
+希腊,Greece
+葡萄牙,Portugal
+西班牙,Spain
+阿尔巴尼亚,Albania
+安道尔 ,Andorra 
+奥地利,Austria
+保加利亚,Bulgaria
+芬兰,Finland
+直布罗陀,Gibraltar
+匈牙利,Hungary
+冰岛,Iceland
+列支敦士登,Liechtenstein
+马耳他,malta
+摩纳哥,Monaco
+挪威,Norway
+波兰,Poland
+罗马尼亚,Romania
+圣马力诺,san marino
+瑞典,Sweden
+瑞士,Switzerland
+爱沙尼亚,Estonia
+拉脱维亚,Latvia
+立陶宛 ,Lithuania 
+白俄罗斯,Belarus
+摩尔多瓦,Moldova
+俄罗斯,Russia
+乌克兰 ,Ukraine 
+斯洛文尼亚 ,slovenia 
+克罗地亚,Croatia
+捷克,Czech Republic
+斯洛伐克,Slovakia
+北马其顿,North Macedonia
+波斯尼亚和黑塞哥维那,Bosnia and Herzegovina
+梵蒂冈,Vatican City
+法罗群岛,Faroe Islands
+塞尔维亚,Serbia
+黑山,Montenegro
+奥兰群岛,Åland Islands
+格恩西,Guernsey
+马恩岛,Isle of Man
+泽西,Jersey
+斯瓦尔巴群岛和扬马延岛,Svalbard and Jan Mayen
+欧洲其他国家(地区) ,Other European countries (regions) 
+拉丁美洲,Latin America
+安提瓜和巴布达,Antigua and Barbuda
+阿根廷,Argentina
+阿鲁巴,Aruba
+巴哈马,Bahamas
+巴巴多斯,Barbados
+伯利兹,Belize
+玻利维亚,Bolivia
+巴西,Brazil
+开曼群岛,Cayman Islands
+智利,Chile
+哥伦比亚,Colombia
+多米尼克,Dominic
+哥斯达黎加,costa rica
+古巴,Cuba
+库拉索,Curaçao
+多米尼加,dominican
+厄瓜多尔,Ecuador
+法属圭亚那,French Guiana
+格林纳达,Greneda
+瓜德罗普,Guadeloupe
+危地马拉,Guatemala
+圭亚那,Guyana
+海地,Haiti
+洪都拉斯,Honduras
+牙买加,Jamaica
+马提尼克,Martinique
+墨西哥,Mexico
+蒙特塞拉特,Montserrat
+尼加拉瓜,Nicaragua
+巴拿马,Panama
+巴拉圭,Paraguay
+秘鲁,Peru
+波多黎各 ,Puerto Rico 
+圣卢西亚,saint lucia
+法属圣马丁,French Saint Martin
+圣文森特和格林纳丁斯,Saint Vincent and the Grenadines
+萨尔瓦多,El Salvador
+苏里南 ,Surinam 
+特立尼达和多巴哥,Trinidad and Tobago
+特克斯和凯科斯群岛,Turks and Caicos Islands
+乌拉圭 ,Uruguay 
+委内瑞拉,Venezuela
+英属维尔京群岛,British Virgin Islands
+圣基茨和尼维斯,Saint Kitts and Nevis
+博纳尔，圣俄斯塔休斯和萨巴,"Bonal, San Ostasius and Saba"
+圣巴泰勒米,Saint Barthelme
+布维岛,Bui Island
+福克兰群岛（马尔维纳斯）,Falkland Islands (Malvinas)
+南乔治亚岛和南桑德韦奇岛,South Georgia and South Sandwich
+荷属圣马丁,"St. Martin, Netherlands"
+美属维尔京群岛,U.S. Virgin Islands
+安圭拉,Anguilla
+拉丁美洲其他国家(地区),Other Latin American countries (regions)
+北美洲,North America
+加拿大,Canada
+美国,USA
+格陵兰 ,Greenland 
+百慕大,Bermuda
+圣皮埃尔和密克隆,Saint-Pierre and Miquelon
+北美洲其他国家(地区),Other countries (regions) in North America
+大洋洲 ,Oceania 
+澳大利亚 ,Australia 
+库克群岛 ,Cook Islands 
+斐济,Fiji
+瑙鲁 ,Nauru 
+新喀里多尼亚,New Caledonia
+瓦努阿图,Vanuatu
+新西兰,New Zealand
+诺福克岛,Norfolk Island
+巴布亚新几内亚 ,papua new guinea 
+所罗门群岛,solomon islands
+汤加,Tonga
+萨摩亚,Samoa
+基里巴斯,Kiribati
+图瓦卢,Tuvalu
+密克罗尼西亚联邦,Federated States of Micronesia
+马绍尔群岛,Marshall Islands
+帕劳,Palau
+法属波利尼西亚,French Polynesia
+瓦利斯和富图纳,Wallis and Futuna
+美属萨摩亚,American Samoa
+科科斯（基林）群岛,Cocos (Kearling) Islands
+圣诞岛,Christmas Island
+关岛,Guam
+赫德岛和麦克唐纳岛,Heard Island and McDonald Island
+北马里亚纳群岛,Northern Mariana Islands
+纽埃,Niue
+皮特凯恩,Pit Kane
+托克劳,Tokelau
+美国本土外小岛屿,Small islands outside the continental United States
+大洋洲其他国家(地区) ,Other countries (regions) in Oceania 
+南极洲,Antarctica
+国家（地区）不明,Country (region) unknown
+东南亚国家联盟,Association of Southeast Asian Nations
+欧洲联盟,European Union
+亚太经济合作组织,Asia-Pacific Economic Cooperation (APEC)
